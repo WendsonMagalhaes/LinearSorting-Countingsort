@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-09-13T14:17:09.233-0300</date>
+  <logger>WENDSON MAGALHAES DA SILVA</logger>
+  <level>FINE</level>
+  <message>File 117210424-WENDSON MAGALHAES DA SILVA.zip was received. It was sent by WENDSON MAGALHAES DA SILVA from IP 150.165.42.104</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-09-13T19:53:55.518-0300</date>
+  <logger>WENDSON MAGALHAES DA SILVA</logger>
+  <level>FINE</level>
+  <message>File 117210424-WENDSON MAGALHAES DA SILVA.zip was received. It was sent by WENDSON MAGALHAES DA SILVA from IP 192.168.1.11</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-09-14T11:39:08.099-0300</date>
+  <logger>WENDSON MAGALHAES DA SILVA</logger>
+  <level>FINE</level>
+  <message>File 117210424-WENDSON MAGALHAES DA SILVA.zip was received. It was sent by WENDSON MAGALHAES DA SILVA from IP 192.168.1.11</message>
+</record>
